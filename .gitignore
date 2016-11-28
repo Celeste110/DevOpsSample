@@ -24,6 +24,5 @@ nbdist/
 .nb-gradle/
 
 target
-.classpath
-.project
-.settings
+.idea
+.devopssample.iml

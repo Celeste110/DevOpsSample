@@ -24,5 +24,4 @@ nbdist/
 .nb-gradle/
 
 target
-.idea
 .devopssample.iml
